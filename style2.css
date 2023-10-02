@@ -1,0 +1,120 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.tab{
+    background-color: lightgrey;
+    border: 2px solid lightgrey;
+    width:100%;
+    height:60px;
+}
+.title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    color: blue;
+    font-weight: bold;
+    margin-left: 35%;
+}
+.bg{
+    background-image: url('https://thumbs.dreamstime.com/b/tirumalai-nayak-palace-madurai-tamil-nadu-india-18537735.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body{
+    background-image: url('http://3.bp.blogspot.com/-2jMMEZ8AuKA/U_nChl-sqaI/AAAAAAAAD9g/zCNuQA0T6s8/s1600/meenakshi%2Bamman%2Btemple%2Baayiram%2Bkaal%2Bmandapam.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg1{
+    background-image: url('https://cdn.s3waas.gov.in/s3f5f8590cd58a54e94377e6ae2eded4d9/uploads/bfi_thumb/2018070612-olwdonqapf100uz6ydeutkz7sg6uumzhz81z02sn7u.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    width: 80%;
+    text-align: center;
+    margin-left: 150px;
+    margin-top: 40px;
+    padding: 10px 10px;
+}
+.gallery1{
+    float: left;
+}
+.gallery2{
+    float: left;
+}
+.gallery3{
+    float: left;
+}
+.gallery4{
+    float: left;
+}
+.gallery5{
+    float: left;
+}
+.gallery6{
+    float: left;
+}
+.gallery7{
+    float: left;
+}
+.gallery8{
+    float: left;
+}
+.gallery9{
+    float:left;
+}
+.gallery1 img{
+    width: 300px;
+    height: 200px;
+    margin: 20px 0 0 30px;
+}
+.gallery2 img{
+    width: 300px;
+    height: 200px;
+    margin: 20px 0 0 30px;
+}
+.gallery3 img{
+    width: 300px;
+    height: 200px;
+    margin: 20px 0 0 30px;
+}
+.gallery4 img{
+    width: 300px;
+    height: 200px;
+    margin: 20px 0 0 30px;
+}
+.gallery5 img{
+    width: 300px;
+    height: 200px;
+    margin: 20px 0 0 30px;
+}
+.gallery6 img{
+    width: 300px;
+    height: 200px;
+    margin: 20px 0 0 30px;
+}
+.gallery7 img{
+    width: 300px;
+    height: 200px;
+    margin: 20px 0 0 30px;
+}
+.gallery8 img{
+    width: 300px;
+    height: 200px;
+    margin: 20px 0 0 30px;
+}
+.gallery9 img{
+    width: 300px;
+    height: 200px;
+    margin: 20px 0 0 30px;
+}
+.cap{
+    font-size: 20px;
+    font-weight:bolder;
+    color: white;
+}
+p:hover{
+    color: black;
+    text-decoration: solid;
+}
